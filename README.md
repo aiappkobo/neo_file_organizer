@@ -1,4 +1,6 @@
-# 📂 File Organizer (Python)
+## Preview
+
+![アプリ画面](image.png)# 📂 File Organizer (Python)
 
 Simple Python tool that automatically sorts files by extension.
 
