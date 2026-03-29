@@ -33,7 +33,7 @@ git clone https://github.com/aiappkobo/neo_file_organizer.git
 ### 2. 設定を変更
 target_folder = r"ここに整理したいフォルダのパス"
 
-### 2. 実行
+### 3. 実行
 python main.py
 ⚠️ Notes
 ファイルが実際に移動されます
