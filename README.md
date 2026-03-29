@@ -26,7 +26,6 @@ Simple Python tool that automatically sorts files by extension.
 
 ### 1. リポジトリをダウンロード
 
-```bash
 git clone https://github.com/aiappkobo/neo_file_organizer.git
 
 ### 2. 設定を変更
