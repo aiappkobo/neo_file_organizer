@@ -27,13 +27,13 @@ Simple Python tool that automatically sorts files by extension.
 ### 1. リポジトリをダウンロード
 
 ```bash
-git clone https://github.com/あなたのユーザー名/file-organizer-python.git
+git clone https://github.com/aiappkobo/neo_file_organizer.git
 
 ### 2. 設定を変更
 target_folder = r"ここに整理したいフォルダのパス"
 
 ### 2. 実行
-python file_organizer.py
+python main.py
 ⚠️ Notes
 ファイルが実際に移動されます
 最初はテスト用フォルダで試してください
